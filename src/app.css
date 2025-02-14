@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@layer components {
+    .form-label {
+        @apply text-gray-800 mb-1 block mt-4 text-lg;
+    }
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
