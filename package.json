@@ -1,7 +1,6 @@
 {
 	"name": "sweetener-converter",
 	"private": true,
-	"homepage": "https://Veea8.github.io/sweetener-converter/",
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
